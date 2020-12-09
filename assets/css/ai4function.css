@@ -9,3 +9,17 @@
 .important-dates a {
     color: white;
 }
+
+.author-list {
+    margin-bottom: 15px;
+}
+
+.item-other .title {
+    font-style: italic;
+}
+#time-zone-disclaimer {
+    font-style: italic;
+    color: #555555;
+    text-align: center;
+    width: 50%;
+}
