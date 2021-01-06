@@ -19,11 +19,16 @@
 }
 #time-zone-disclaimer {
     font-style: italic;
-    color: #555555;
+    color: #222222;
     text-align: center;
-    width: 50%;
+    width: 70%;
+    font-size: 1.3em;
 }
 
 .panel-sponsor {
     font-size: 1.1em;
+}
+
+#hero-block {
+    height: 670px;
 }
